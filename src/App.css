@@ -39,8 +39,7 @@
   background-color: white;
   font-family: 'Avenir';
   font-weight: bold;
-  color: #bcbcbc;
-  /*color: #595657;*/
+  color: #BEBCB7;
 
   justify-content: left;
   font-size: 240%;
@@ -50,3 +49,7 @@
 .icons {
   color: #c78ebe;
 }
+
+/* color: #c78ebe; lavender */
+/* color: #BFD3B1; lily */
+/* color: #595657; lotus */

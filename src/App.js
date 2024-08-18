@@ -34,7 +34,7 @@ function App() {
       </a>
       <a href="https://github.com/vaishalijayaraman/">
         <IconButton>
-          <GitHubIcon style={{ fontSize: "145%" }} className={"icons"}/>
+          <GitHubIcon style={{ fontSize: "140%" }} className={"icons"}/>
         </IconButton>
       </a>
       {/*<a href="https://www.instagram.com/vaishijay/">*/}
