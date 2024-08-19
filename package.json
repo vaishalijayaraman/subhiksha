@@ -25,8 +25,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "yarn run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "@iconify/react": "^4.1.1"
+    "@iconify/react": "^4.1.1",
+    "gh-pages": "^6.1.1"
   }
 }
